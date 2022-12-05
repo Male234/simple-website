@@ -1,9 +1,5 @@
 let userName = window.prompt("Wprowadz imie: ");
 
-setTimeout(() => {
-    
-}, timeout);
-
 while(userName == "" || userName == null){
     userName = window.prompt("Enter your name: ")
     
